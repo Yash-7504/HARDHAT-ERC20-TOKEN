@@ -18,7 +18,7 @@
 
 ```
 git clone https://github.com/GENxSOLAR/HARDHAT-ERC20-TOKEN.git
-cd HARDHAT-ERC20-TOKEN
+cd HARDHAT-ERC20-TOKEN-main
 yarn
 ```
 
