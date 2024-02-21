@@ -12,6 +12,7 @@ interface tokenRecipient {
 
 contract TokenERC20 {
   // Public variables of the token
+  address public owner;
   string public name;
   string public symbol;
   uint8 public decimals = 18;
